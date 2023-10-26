@@ -1,0 +1,28 @@
+﻿body {
+}
+h1 {
+    color: #F6AE2D;
+    font-size: 60px;
+    font-family: Cooper;
+    margin-left: 90px
+}  
+#Lbl1{
+    margin-left: 60px;
+    font-family:Consolas;
+}
+#Lbl2 {
+    margin-left: 90px;
+    font-family: Consolas;
+    color: #F6AE2D;
+    font-size: 30px;
+}
+.a {
+    margin-left: 60px;
+    font-family: Consolas;
+}
+#Label5 {
+    margin-left: 90px;
+    font-family: Consolas;
+    color: #F6AE2D;
+    font-size: 30px;
+}

@@ -1,0 +1,62 @@
+﻿body {
+
+
+}
+
+
+div {
+    text-align: center;  
+}
+
+header {
+    height: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+#Label4 {
+    font-family: Cooper;
+    color: #fcbf49;
+    font-size: 100px;
+}
+#LblPlay{
+    font-family:Consolas;
+}
+    #LblPlay:hover {
+        color: antiquewhite;
+        
+    }
+#LblDes {
+    font-family: Consolas;
+}
+
+    #LblDes:hover {
+        color: antiquewhite;
+        
+    }
+#LblTex {
+    font-family: Consolas;
+}
+
+    #LblTex:hover {
+        color: antiquewhite;
+        
+    }
+
+h1 {
+    color: #F6AE2D;
+    font-size: 70px;
+    font-family: Cooper;
+}  
+
+.a{
+   
+}
+
+
+#BtnMost{
+  margin-left:50px;
+  font-family:Consolas;
+  background-color:antiquewhite;
+
+}
+
